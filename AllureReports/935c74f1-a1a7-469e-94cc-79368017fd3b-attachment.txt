@@ -1,6 +1,0 @@
-[32mINFO    [0m Utilities.Logger:test_Login_page.py:41 Open login url
-[32mINFO    [0m Utilities.Logger:test_Login_page.py:46 email
-[32mINFO    [0m Utilities.Logger:test_Login_page.py:48 password
-[32mINFO    [0m Utilities.Logger:test_Login_page.py:51 Click login
-[32mINFO    [0m Utilities.Logger:test_Login_page.py:53 wait for five second
-[32mINFO    [0m Utilities.Logger:test_Login_page.py:60 Taking screen shrot pass
