@@ -1,0 +1,339 @@
+
+2025-06-24 15:21:46,030 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-24 15:21:54,752 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-24 15:21:54,753 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-24 15:21:59,380 : INFO : test_login_page_002 :41 :Open login url
+2025-06-24 15:22:03,398 : INFO : test_login_page_002 :46 :email
+2025-06-24 15:22:04,634 : INFO : test_login_page_002 :48 :password
+2025-06-24 15:22:04,727 : INFO : test_login_page_002 :51 :Click login
+2025-06-24 15:22:07,788 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-24 15:22:07,816 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-24 15:34:23,874 : INFO : test_login_page_002 :41 :Open login url
+2025-06-24 15:34:24,741 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-24 15:35:02,994 : INFO : test_login_page_002 :46 :email
+2025-06-24 15:35:04,141 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-24 15:35:04,141 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-24 15:35:07,020 : INFO : test_login_page_002 :48 :password
+2025-06-24 15:35:09,928 : INFO : test_login_page_002 :51 :Click login
+2025-06-24 15:35:15,044 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-24 15:35:15,947 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-24 17:06:02,593 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:06:02,593 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:06:16,219 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:06:16,219 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:06:20,643 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:06:20,643 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:06:21,572 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:06:21,572 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:06:21,695 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:06:21,695 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:06:21,886 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:06:21,886 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:06:27,048 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:06:27,048 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:06:32,409 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:06:32,409 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:06:39,524 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:06:39,524 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:06:39,730 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:06:39,730 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:06:39,900 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:06:39,900 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:06:40,000 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:06:40,000 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:06:45,207 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:06:45,207 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:12,323 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:12,323 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:15,962 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:07:15,962 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:07:16,125 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:07:16,125 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:07:16,280 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:07:16,280 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:07:18,698 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:07:18,698 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:07:23,923 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:23,923 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:28,124 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:28,124 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:31,686 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:07:31,686 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:07:31,842 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:07:31,842 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:07:31,950 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:07:31,950 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:07:32,136 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:07:32,136 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:07:37,590 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:37,590 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:41,812 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:41,812 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:48,705 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:07:48,705 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:07:48,859 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:07:48,859 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:07:48,986 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:07:48,986 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:07:50,540 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:07:50,540 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:07:55,737 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:55,737 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:07:59,820 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:07:59,820 : INFO : test_login_page_007 :42 :Open login url
+2025-06-24 17:08:03,418 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:08:03,418 : INFO : test_login_page_007 :51 :email
+2025-06-24 17:08:03,563 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:08:03,563 : INFO : test_login_page_007 :53 :password
+2025-06-24 17:08:03,675 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:08:03,675 : INFO : test_login_page_007 :56 :Click login
+2025-06-24 17:08:03,891 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:08:03,891 : INFO : test_login_page_007 :58 :wait for five second
+2025-06-24 17:08:09,042 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:08:09,042 : INFO : test_login_page_007 :70 :Taking screen shot fail
+2025-06-24 17:12:59,906 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:12:59,906 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:01,966 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:01,966 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:03,483 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:03,483 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:03,648 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:03,648 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:07,284 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:07,284 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:07,311 : INFO : test_login_page_param_007 :65 :Taking screen shrot pass
+2025-06-24 17:13:07,311 : INFO : test_login_page_param_007 :65 :Taking screen shrot pass
+2025-06-24 17:13:12,782 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:12,782 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:16,698 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:16,698 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:16,935 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:16,935 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:17,107 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:17,107 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:18,237 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:18,237 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:23,432 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 17:13:23,432 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 17:13:28,959 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:28,959 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:34,628 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:34,628 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:34,778 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:34,778 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:34,879 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:34,879 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:36,403 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:36,403 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:41,640 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 17:13:41,640 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 17:13:46,836 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:46,836 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 17:13:51,528 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:51,528 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 17:13:51,678 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:51,678 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 17:13:51,843 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:51,843 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 17:13:51,949 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:51,949 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 17:13:57,280 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 17:13:57,280 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:26:57,209 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:26:57,209 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:27:11,123 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:27:11,123 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:27:21,307 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:27:21,307 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:27:22,269 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:27:22,269 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:27:22,444 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:27:22,444 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:27:23,977 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:27:23,977 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:27:29,166 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:27:29,166 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:27:37,981 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:27:37,981 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:27:42,479 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:27:42,479 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:27:42,672 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:27:42,672 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:27:42,816 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:27:42,816 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:27:42,936 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:27:42,936 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:27:48,145 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:27:48,145 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:27:54,407 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:27:54,407 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:28:00,197 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:28:00,197 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:28:00,372 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:28:00,372 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:28:00,517 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:28:00,517 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:28:00,712 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:28:00,712 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:28:05,905 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:28:05,905 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:28:24,809 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:28:24,809 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:28:30,158 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:28:30,158 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:28:30,329 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:28:30,329 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:28:30,501 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:28:30,501 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:28:34,782 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:28:34,782 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:28:34,821 : INFO : test_login_page_param_007 :65 :Taking screen shrot pass
+2025-06-24 19:28:34,821 : INFO : test_login_page_param_007 :65 :Taking screen shrot pass
+2025-06-24 19:28:41,022 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:28:41,022 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:28:48,575 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:28:48,575 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:28:48,723 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:28:48,723 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:28:49,011 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:28:49,011 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:28:51,060 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:28:51,060 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:28:56,294 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:28:56,294 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:29:00,592 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:29:00,592 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:29:04,441 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:29:04,441 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:29:04,601 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:29:04,601 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:29:04,770 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:29:04,770 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:29:04,911 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:29:04,911 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:29:09,927 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:29:09,927 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:29:15,743 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:29:15,743 : INFO : test_login_page_param_007 :42 :Open login url
+2025-06-24 19:29:23,034 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:29:23,034 : INFO : test_login_page_param_007 :51 :email
+2025-06-24 19:29:23,248 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:29:23,248 : INFO : test_login_page_param_007 :53 :password
+2025-06-24 19:29:23,360 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:29:23,360 : INFO : test_login_page_param_007 :56 :Click login
+2025-06-24 19:29:24,873 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:29:24,873 : INFO : test_login_page_param_007 :58 :wait for five second
+2025-06-24 19:29:30,091 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-24 19:29:30,091 : INFO : test_login_page_param_007 :70 :Taking screen shot fail
+2025-06-25 21:48:27,754 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-25 21:48:27,754 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-25 21:48:32,632 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-25 21:48:32,632 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-25 21:48:32,632 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-25 21:48:32,632 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-25 21:48:37,461 : INFO : test_login_page_002 :41 :Open login url
+2025-06-25 21:48:37,461 : INFO : test_login_page_002 :41 :Open login url
+2025-06-25 21:48:41,041 : INFO : test_login_page_002 :46 :email
+2025-06-25 21:48:41,041 : INFO : test_login_page_002 :46 :email
+2025-06-25 21:48:41,228 : INFO : test_login_page_002 :48 :password
+2025-06-25 21:48:41,228 : INFO : test_login_page_002 :48 :password
+2025-06-25 21:48:41,415 : INFO : test_login_page_002 :51 :Click login
+2025-06-25 21:48:41,415 : INFO : test_login_page_002 :51 :Click login
+2025-06-25 21:48:41,544 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-25 21:48:41,544 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-25 21:48:44,416 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-25 21:48:44,416 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-25 21:49:09,360 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-25 21:49:09,360 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:37:09,920 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 11:37:09,920 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 11:37:15,692 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 11:37:15,692 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 11:37:15,693 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 11:37:15,693 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 11:37:24,225 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 11:37:24,225 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 11:37:28,965 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:37:28,965 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:37:29,945 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:37:29,945 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:37:30,106 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:37:30,106 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:37:33,739 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:37:33,739 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:37:33,850 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:37:33,850 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:38:06,427 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:38:06,427 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:46:24,119 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:46:24,119 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:46:42,224 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:46:42,224 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:47:00,332 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:47:00,332 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:47:00,965 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:47:00,965 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:47:10,641 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:47:10,641 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:47:10,791 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:47:10,791 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:48:59,937 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 11:48:59,937 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 11:49:31,110 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 11:49:31,110 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 11:49:31,112 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 11:49:31,112 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 11:49:58,358 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 11:49:58,358 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 11:50:18,696 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:50:18,696 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:50:18,910 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:50:18,910 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:50:19,080 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:50:19,080 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:50:24,217 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:50:24,217 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:50:24,247 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:50:24,247 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:50:27,601 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:50:27,601 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:54:13,650 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 11:54:13,650 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 11:54:15,262 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 11:54:15,262 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 11:54:15,263 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 11:54:15,263 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 11:54:19,738 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 11:54:19,738 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 11:54:22,592 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:54:22,592 : INFO : test_login_page_002 :46 :email
+2025-06-26 11:54:23,288 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:54:23,288 : INFO : test_login_page_002 :48 :password
+2025-06-26 11:54:23,377 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:54:23,377 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 11:54:26,874 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:54:26,874 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 11:54:26,903 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:54:26,903 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 11:54:49,242 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 11:54:49,242 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 12:01:59,824 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 12:01:59,824 : INFO : test_CredKart_title_001 :24 :open login Url
+2025-06-26 12:02:05,636 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 12:02:05,636 : INFO : test_CredKart_title_001 :29 :Check Credkart title
+2025-06-26 12:02:05,640 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 12:02:05,640 : INFO : test_CredKart_title_001 :31 :asser is true
+2025-06-26 12:02:09,872 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 12:02:09,872 : INFO : test_login_page_002 :41 :Open login url
+2025-06-26 12:02:14,716 : INFO : test_login_page_002 :46 :email
+2025-06-26 12:02:14,716 : INFO : test_login_page_002 :46 :email
+2025-06-26 12:02:14,872 : INFO : test_login_page_002 :48 :password
+2025-06-26 12:02:14,872 : INFO : test_login_page_002 :48 :password
+2025-06-26 12:02:14,966 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 12:02:14,966 : INFO : test_login_page_002 :51 :Click login
+2025-06-26 12:02:15,167 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 12:02:15,167 : INFO : test_login_page_002 :53 :wait for five second
+2025-06-26 12:02:18,563 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 12:02:18,563 : INFO : test_login_page_002 :60 :Taking screen shrot pass
+2025-06-26 12:02:59,687 : INFO : test_CredKart_title_006 :24 :open login Url
+2025-06-26 12:02:59,687 : INFO : test_CredKart_title_006 :24 :open login Url

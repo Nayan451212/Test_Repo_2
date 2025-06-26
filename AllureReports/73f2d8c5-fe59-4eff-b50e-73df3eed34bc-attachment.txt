@@ -1,0 +1,3 @@
+[32mINFO    [0m Utilities.Logger:test_Login_page.py:24 open login Url
+[32mINFO    [0m Utilities.Logger:test_Login_page.py:29 Check Credkart title
+[32mINFO    [0m Utilities.Logger:test_Login_page.py:31 asser is true
